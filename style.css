@@ -1,0 +1,20 @@
+span {
+    border: 1px solid black;
+}
+
+li {
+    color: red;
+}
+
+.main {
+    color: black;
+    
+}
+
+.cursiv {
+    font-style: italic;
+}
+
+.green {
+    color: green;
+}
